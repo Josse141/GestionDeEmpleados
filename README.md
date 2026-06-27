@@ -9,6 +9,13 @@
 
 ## Orden de uso
 
+Para conexión con DB:
+
+Server Name: (localdb)\MSSQLLocalDB
+Authentication: Windows Authentication
+Database Name: <default>
+Encrypt: Optional
+
 1. Abra `BD_GestionEmpleados.sql` con SQL Server Management Studio.
 2. Ejecute todo el script. Este crea la base `DB_GestionEmpleados`, la tabla `Empleados` y tres registros de prueba.
 3. Abra `GestionEmpleados_DatabaseFirst.sln` en Visual Studio.
