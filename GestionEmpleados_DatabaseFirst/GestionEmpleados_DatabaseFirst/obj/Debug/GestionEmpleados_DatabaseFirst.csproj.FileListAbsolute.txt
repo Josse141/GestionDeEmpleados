@@ -1,0 +1,15 @@
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\GestionEmpleados_DatabaseFirst.exe.config
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\GestionEmpleados_DatabaseFirst.exe
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\GestionEmpleados_DatabaseFirst.pdb
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.csproj.AssemblyReference.cache
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.FrmEmpleados.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.Properties.Resources.resources
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.csproj.GenerateResource.cache
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionE.C0E39927.Up2Date
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.exe
+C:\Users\josse\OneDrive\UAM\Progra 3\2026\Examen 1\GestionDeEmpleados\GestionEmpleados_DatabaseFirst\GestionEmpleados_DatabaseFirst\obj\Debug\GestionEmpleados_DatabaseFirst.pdb
